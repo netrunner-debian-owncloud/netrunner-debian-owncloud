@@ -1,0 +1,17 @@
+Source: netrunner-debian-owncloud
+Section: metapackages
+Priority: optional
+Maintainer: Rohan Garg <rohan@kde.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/netrunner-debian-owncloud/netrunner-debian-owncloud
+
+Package: netrunner-debian-owncloud
+Architecture: all
+Depends: netrunner-arm,
+ owncloud
+ ${misc:Depends}
+Description: Netrunner Debian YACY edition
+ Netrunner Debian YACY edition
+ .
+ Meta package for Netrunner Debian
