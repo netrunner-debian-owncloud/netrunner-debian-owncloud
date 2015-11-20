@@ -11,7 +11,7 @@ Architecture: all
 Depends: netrunner-arm,
  owncloud
  ${misc:Depends}
-Description: Netrunner Debian YACY edition
- Netrunner Debian YACY edition
+Description: Netrunner Debian ownCloud edition
+ Netrunner Debian ownCloud edition
  .
  Meta package for Netrunner Debian
