@@ -11,6 +11,7 @@ Architecture: all
 Depends: netrunner-arm,
  owncloud,
  guacamole-tomcat,
+ x11vnc,
  ${misc:Depends}
 Description: Netrunner Debian ownCloud edition
  Netrunner Debian ownCloud edition
