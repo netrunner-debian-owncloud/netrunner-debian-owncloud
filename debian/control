@@ -10,8 +10,7 @@ Package: netrunner-debian-owncloud
 Architecture: all
 Depends: netrunner-arm,
  owncloud,
- guacamole-tomcat,
- x11vnc,
+ novnc,
  ${misc:Depends}
 Description: Netrunner Debian ownCloud edition
  Netrunner Debian ownCloud edition
