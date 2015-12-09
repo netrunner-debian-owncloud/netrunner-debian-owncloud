@@ -8,10 +8,7 @@ Homepage: https://github.com/netrunner-debian-owncloud/netrunner-debian-owncloud
 
 Package: netrunner-debian-owncloud
 Architecture: all
-Depends: netrunner-arm,
- owncloud,
- novnc,
- ${misc:Depends}
+Depends: netrunner-arm, novnc, owncloud, ${misc:Depends}
 Description: Netrunner Debian ownCloud edition
  Netrunner Debian ownCloud edition
  .
